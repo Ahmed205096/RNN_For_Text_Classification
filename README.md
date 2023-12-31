@@ -1,0 +1,1 @@
+This repository contains an implementation of a Recurrent Neural Network (RNN) model for text classification. The model is designed to classify text data into different categories or labels, making it suitable for various tasks such as sentiment analysis, spam detection, or topic categorization.
